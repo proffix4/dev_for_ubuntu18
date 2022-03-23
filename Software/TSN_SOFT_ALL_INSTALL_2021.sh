@@ -75,6 +75,6 @@ sudo apt install cryptomator -y
 
 sudo apt install libcanberra-gtk-module -y
 
-sudo apt install curl -y
+sudo apt install curl checkinstall -y
 
 sudo apt autoremove -y
